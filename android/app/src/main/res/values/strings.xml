@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">test10</string>
+    <string name="title_activity_main">test10</string>
+    <string name="package_name">com.biblegamesproject.test10</string>
+    <string name="custom_url_scheme">com.biblegamesproject.test10</string>
+</resources>

@@ -6,9 +6,9 @@
   },
   "devDependencies": {
     "typescript": "^5.0.0",
-    "@capacitor/core": "^8.0.0",
-    "@capacitor/cli": "^8.0.0",
-    "@capacitor/ios": "^8.0.0",
-    "@capacitor/android": "^8.0.0"
+    "@capacitor/core": "^8.4.2",
+    "@capacitor/cli": "^8.4.2",
+    "@capacitor/ios": "^8.4.2",
+    "@capacitor/android": "^8.4.2"
   }
 }
